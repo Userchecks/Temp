@@ -1,3 +1,1 @@
-User(Inlog) / Discord ID(Identify)
-Homie / TEST#1234
-dev123 / TEST#1234
+Homie
