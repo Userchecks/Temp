@@ -1,1 +1,3 @@
-silk Homie
+User(Inlog) / Discord ID(Identify)
+Admin123 / TEST#1234
+dev123 / TEST#1234
