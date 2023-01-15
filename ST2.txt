@@ -94,12 +94,9 @@ EF
 w
 ef
 WEF
-
 wef
-
 wE
 G
-
 WEG
 W
 eg
@@ -124,17 +121,4 @@ ef
 WE
 F
 wef
-
-
-
-
-
-
-
-
-
-
-
-
-
 
