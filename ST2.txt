@@ -1,2 +1,2 @@
-DEV#9999 
-ADMIN#9999 
+DEV#9999 DiscordName <83483943984739> test@test
+ADMIN#9999 DiscordName <83483943984739> test@test
