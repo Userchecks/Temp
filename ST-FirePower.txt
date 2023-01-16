@@ -1,2 +1,3 @@
-DEV#9999 DiscordName <83483943984739> test@test
-ADMIN#9999 DiscordName <83483943984739> test@test
+-R-10001 <364773607282573312> Email@address.com
+Arp10002 <255155817982984193> Email@address.com
+Han10003 <928159135256698902> Email@address.com
